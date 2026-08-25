@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign sorted = site.publications | sort: "date" | reverse %}
+{% assign current_year = "" %}
+{% for post in sorted %}
+  {% assign year = post.date | date: "%Y" %}
+  {% if year != current_year %}
+    {% assign current_year = year %}
+    <p style="margin-bottom: 0.2em;"><strong>{{ year }}</strong></p><hr style="margin-top: 0;" />
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
