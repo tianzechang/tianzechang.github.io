@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tianze, a pre-Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io). I received my Bachelor's degree in Information Security from the [University of Science and Technology of China](https://ustc.edu.cn/), where I was advised by [Dr. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/) and [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/). I also worked as a research assistant at HKUST (Guangzhou), supervised by [Prof. Xinlei He](https://xinleihe.github.io).
+I am Tianze, a pre-Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), advised by [Prof. Yang Zhang](https://yangzhangalmo.github.io). I received my Bachelor's degree in Information Security from the [University of Science and Technology of China](https://ustc.edu.cn/), where I was advised by [Dr. Kejiang Chen](http://home.ustc.edu.cn/~chenkj/) and [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/). I also worked as a research assistant at HKUST (Guangzhou), supervised by [Prof. Xinlei He](https://xinleihe.github.io).
 
 ## News
 
