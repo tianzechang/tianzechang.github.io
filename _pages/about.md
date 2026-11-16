@@ -12,7 +12,7 @@ I am Tianze, a pre-Ph.D. student at [CISPA Helmholtz Center for Information Secu
 ## News
 
 - **[11/2026]** Our paper titled "Meme Discourse in Online Sports Communities: A Large-Scale Study of LeBron James-Related Memes" got accepted by ICWSM 2027, see you at Edinburgh!
-- **[08/2026]** Our paper titled "GuardrailAgent: An Agentic Framework for Jailbreak Defense" got accepted by EMNLP 2026.
+- **[08/2026]** Our paper titled "GuardrailAgent: An Agentic Framework for Jailbreak Defense" got accepted by EMNLP Findings 2026, see you at Budapest!
 
 ## Awards
 
